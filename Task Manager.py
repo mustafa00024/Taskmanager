@@ -23,7 +23,7 @@ def main():
         try:
             print("\nTo-do list:")
             print("1 - Add task")
-            print("2 - Delete task")
+            print("2 - Remove task")
             print("3 - Display tasks")
             print("4 - Quit")
             choice = int(input("Enter your choice: "))
